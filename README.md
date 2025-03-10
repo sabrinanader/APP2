@@ -2,6 +2,9 @@
 A codified version of google translate !!
 
 ---
+ 
+
+---
 
 # 🚀 TOEICKilla - Vocabulary Manager 📖  
 
@@ -111,6 +114,14 @@ Thank you for checking out **TOEICKilla**! 🚀 We appreciate your interest and 
 If you have any feedback or suggestions, feel free to contribute or reach out! 💡  
 
 ---
+
+This README is **complete and ready to go**! Let me know if you need any tweaks. 🚀🔥
+
+
+
+
+
+
 
 
 
