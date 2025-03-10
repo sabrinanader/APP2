@@ -1,9 +1,6 @@
 # APP2
 A codified version of google translate !!
 
-
-Here's your final **README** with all the requested sections, formatted and ready to copy-paste! 🚀  
-
 ---
 
 # 🚀 TOEICKilla - Vocabulary Manager 📖  
